@@ -1,4 +1,8 @@
-## Hi there 👋
+<div align="center">
+  <a href="https://github.com/littlegoat666">
+    <img src="https://readme-typing-svg.demolab.com?font=Mali&weight=500&size=40&pause=1000&color=A000FF&center=true&vCenter=true&width=750&height=70&lines=Howdy+y'all%2C++my+name+is+Little+Goat!" alt="Typing SVG"></img>
+  </a>
+</div>
 
 <!--
 **littlegoat666/littlegoat666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
