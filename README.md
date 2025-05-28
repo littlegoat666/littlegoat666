@@ -4,6 +4,28 @@
   </a>
 </div>
 
+# :clown_face: About I/Me/Myself
+
+```python
+
+class Human :
+
+    def __init__(self):
+       	self.identity = Little Goat
+        self.role = "Software Developer"
+        self.language = ["Thai", "English US/UK"]
+        self.skills = ["Code", "Cook", "Art", "Merchant"]
+
+    def __init__(stats):
+        stats.str = 2
+        stats.int = 4
+        stats.agi = 3
+        stats.vit = 1
+        stats.dex = 3
+        stats.luk = 3
+
+```
+
 <!--
 **littlegoat666/littlegoat666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
