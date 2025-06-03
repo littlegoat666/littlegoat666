@@ -11,12 +11,12 @@
 class Human :
 
     def __init__(self):
-       	self.identity = Little Goat
-        self.role = "Software Developer"
-        self.language = ["Thai", "English US/UK"]
-        self.skills = ["Code", "Cook", "Art", "Merchant"]
+       	self.identity = "Jirayut aka.Little Goat"
+        self.role = "Software Developer/Engineer"
+        self.human_language = ["Thai", "English_US/UK"]
+        self.talent = ["Code", "Cook", "Art", "Merchant"]
 
-    def __init__(stats):
+    def __init__(RPG-stats):
         stats.str = 2
         stats.int = 4
         stats.agi = 3
