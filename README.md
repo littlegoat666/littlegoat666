@@ -16,7 +16,7 @@ class Human :
         self.human_language = ["Thai", "English_US/UK"]
         self.talent = ["Code", "Cook", "Art", "Merchant"]
 
-    def __init__(RPGstats):
+    def __init__(rpg_stats):
         stats.str = 2
         stats.int = 4
         stats.agi = 3
